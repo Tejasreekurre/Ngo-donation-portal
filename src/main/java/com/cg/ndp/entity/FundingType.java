@@ -1,0 +1,7 @@
+package com.cg.ndp.entity;
+
+public enum FundingType {
+	MEMBERSHIPDUES, PRIVATEDONATIONS,SALEOFGOODSANDSERVICES,GOVERNMENTFUNDING;
+
+
+}
